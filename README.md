@@ -1,3 +1,7 @@
+`counter/cubit/counter_cubit.dart` => cubit with primitive data type example
+`counter/cubit/counter2_cubit.dart` and `counter/cubit/counter2_state.dart` => cubit with custom data type example
+`counter/bloc` => bloc example
+
 # flutter_counter
 
 A new Flutter project.
